@@ -16,11 +16,6 @@ Este é um projeto simples de um chatbot desenvolvido em Python, utilizando a AP
 
 ### **1. Clonar o Repositório**
 
-```bash
- git clone <URL_DO_REPOSITORIO>
- cd <NOME_DO_REPOSITORIO>
-```
-
 ### **2. Criar e Ativar um Ambiente Virtual**
 
 No Windows:
