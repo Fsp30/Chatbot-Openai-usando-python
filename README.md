@@ -94,5 +94,5 @@ Verifique se o arquivo `.env` está configurado corretamente e se a chave de API
 ---
 
 ## **Licença**
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License].
 
